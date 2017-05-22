@@ -6,7 +6,7 @@ package com.defaultinterfacemethod;
  * Purpose : Interface: 1 unimplemented method and 2 default methods
  */
 
-public interface Formula {
+interface Formula {
     double calculateExpression(int x, int y);
 
     default double sqrt(int x) {
