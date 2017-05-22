@@ -1,4 +1,4 @@
-package com.defaultInterfaceMethod;
+package com.defaultMethod;
 
 /**
  * Author  : Ankit Sarraf
