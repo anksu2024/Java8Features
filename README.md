@@ -1,12 +1,12 @@
 # Java8Features
-### About
+## About
 Understanding new Java 8 Features
 
-### Topics
+## Topics
 * Default Interface Functions
 * Lambda Functions
 * Functional Interfaces
 
-### Resources:
+## Resources:
 https://goo.gl/780Xgn: Java 8 Tutorial by Benjamin Winterberg
 <br/>https://goo.gl/zbVqLj: Java 8 Stream Tutorial by Benjamin Winterberg
