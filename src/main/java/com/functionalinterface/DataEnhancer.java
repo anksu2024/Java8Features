@@ -6,6 +6,7 @@ package com.functionalinterface;
  * Purpose : To understand Functional Interface
  * Note    : There can be only 1 abstract methods
  *           Default Method isn't an abstract method
+ *           The FunctionalInterface annotation is optional
  */
 
 @FunctionalInterface
