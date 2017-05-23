@@ -1,7 +1,7 @@
 # Java8Features
 Understanding new Java 8 Features
 
-### Topicss
+### Topics
 * Default Interface Functions
 * Lambda Functions
 * Functional Interfaces
