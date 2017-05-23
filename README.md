@@ -33,7 +33,7 @@ Understanding new Java 8 Features
         <td>https://goo.gl/bT3WkW</td>
     </tr>
     <tr>
-        <td>Performance improvement of Map</td>
+        <td>What's New in JDK 8</td>
         <td>https://goo.gl/TSvU7t</td>
     </tr>
 </table>
