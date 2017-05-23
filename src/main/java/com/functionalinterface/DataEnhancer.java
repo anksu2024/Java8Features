@@ -10,6 +10,6 @@ package com.functionalinterface;
  */
 
 @FunctionalInterface
-public interface DataEnhancer<A, B> {
+interface DataEnhancer<A, B> {
     B enhance(A input);
 }
